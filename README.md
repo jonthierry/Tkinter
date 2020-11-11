@@ -24,6 +24,14 @@ A temperature converter that inputs an integer and converts it into Fahrenheit o
 
 A text editor that opens text files, reads them and saves them as new files.
 
+## radiobuttons
+
+A radiobuttion widget implementation
+
 ## Tkinter_GUI
 
 An optimized OneClass Segmentation interface that Loads a segmentation pretrained model, uploads testing images, evaluates them and displays the segmentation results. Results include the model accuracy, the confusion matrix and segmented image results.
+
+## OneClass Segmentation
+
+An updated version of Tkinter_GUI, which uploads real-time images from an IDS camera.
